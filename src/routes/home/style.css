@@ -1,0 +1,11 @@
+.home {
+	padding: 56px 20px;
+	min-height: 100%;
+	width: 100%;
+}
+
+.well {
+  background-color: #EDEEDC;
+  padding: 20px;
+  min-height: 250px;
+}

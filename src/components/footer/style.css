@@ -1,0 +1,10 @@
+
+footer {
+  border-bottom: 6px solid #FBEC56;
+  padding: 50px;
+
+}
+.footer__title {
+  text-align: center;
+  font-weight: bold;
+}
